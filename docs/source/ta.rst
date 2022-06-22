@@ -21,7 +21,8 @@ by Dario Lopez Padial (Bukosabino)
 .. github-shield::
     :last-commit:
 
-\
+.. pypi-shield::
+    :version:
 
 .. github-shield::
     :commits-since: v0.1.0
