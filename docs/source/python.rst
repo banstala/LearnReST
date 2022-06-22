@@ -143,11 +143,11 @@ a computer code *learns* to take the right
 decisions by looking at data, embodying 
 a good amount of experience across some domain.
 
+.. |uplogo| image:: /img/upwork-logo.png
+   :height: 2ex
+
 .. figure:: img/Partha_photo.jpg
    :width: 100px
    :align: center
 
-   Partha, Freelancer@
-
-.. image:: img/upwork-logo.png
-   :width: 30px
+   Partha, Freelancer@|uplogo|
