@@ -20,11 +20,14 @@ by Dario Lopez Padial (Bukosabino)
 
 [![License: BSD 3-Clause](https://img.shields.io/badge/license-BSD%203--Clause-blue.svg)](https://github.com/banstala/LearnReST/blob/main/README.md)
 
-.. github-shield::
+.. 
+   github-shield::
    :last-commit:
 
-.. pypi-shield::
+.. 
+   pypi-shield::
    :version:
 
-.. github-shield::
+.. 
+   github-shield::
    :commits-since: v0.1.0
