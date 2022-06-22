@@ -145,6 +145,7 @@ a good amount of experience across some domain.
 
 .. figure:: img/Partha_photo.jpg
    :width: 100px
+   :align: center
 
    Partha, Freelancer@
 
