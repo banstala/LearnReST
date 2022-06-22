@@ -145,9 +145,11 @@ a good amount of experience across some domain.
 
 .. |uplogo| image:: /img/upwork-logo.png
    :height: 2ex
+   :target: https://www.upwork.com/
 
 .. figure:: img/Partha_photo.jpg
    :width: 100px
    :align: center
+   :target: https://bit.ly/UpPartha
 
-   Partha, Freelancer@\ |uplogo|
+   Partha, Freelancer@\ |uplogo|\ work
