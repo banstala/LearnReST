@@ -150,4 +150,4 @@ a good amount of experience across some domain.
    :width: 100px
    :align: center
 
-   Partha, Freelancer@|uplogo|
+   Partha, Freelancer@\ |uplogo|
