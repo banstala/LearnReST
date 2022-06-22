@@ -17,3 +17,11 @@ are available in the library ``ta``
 The `technical analysis library
 <https://technical-analysis-library-in-python.readthedocs.io/en/latest/ta.html>`_
 by Dario Lopez Padial (Bukosabino) 
+
+.. github-shield::
+    :last-commit:
+
+\
+
+.. github-shield::
+    :commits-since: v0.1.0
