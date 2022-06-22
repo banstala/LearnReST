@@ -126,4 +126,19 @@ ignore such thoughts.
 .. note:: Ignore memory-recurring events.
 
 .. image:: img/AI_avtar.png
-   :height: 250px
+   :width: 25%
+   :align: right
+
+.. rubric:: Artificial Intelligence and 
+   Machine Learning
+
+Artificial Intelligence (AI) is concerned with
+making computers intelligent, and take decisions
+without humans (or even human-created codes)
+explicitly directing it what to do in which 
+situation. 
+
+Machine Learning (ML) is the process where
+a computer code *learns* to take the right 
+decisions by looking at data, embodying 
+a good amount of experience across some domain.
