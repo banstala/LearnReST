@@ -104,3 +104,23 @@ They can be of the following types---
 .. seealso:: Pointing to something that's 
 
    extra--- over and above the plain text.
+
+
+----
+
+.. sidebar:: Margine notes with ``.. sidebar::``
+
+   A lot of text can be summarized in an 
+   American*ish* style with sidebar contents.
+
+You can write long, long, long paragraphs...
+Like a story of your childhood, or the memory
+of an event you saw when you were eighteen
+that took you not only by surprise, but 
+came to your reminiscence several times in
+your life.  These events are to be given some
+importance, and even can creep into your dreams
+once in a lifetime. But I'd say it's best to
+ignore such thoughts.
+
+.. note:: Ignore recurring events.
