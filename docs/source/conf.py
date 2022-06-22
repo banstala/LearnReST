@@ -7,7 +7,7 @@ copyright = '2022, Partha'
 author = 'Partha'
 
 release = '0.1'
-version = '0.1.1'
+version = '0.1.2'
 
 # -- General configuration
 
