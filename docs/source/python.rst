@@ -147,5 +147,6 @@ a good amount of experience across some domain.
    :width: 100px
 
    Partha, Freelancer@
-   .. image:: img/upwork-logo.png
-      :width: 30px
+
+.. image:: img/upwork-logo.png
+   :width: 30px
