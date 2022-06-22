@@ -33,7 +33,7 @@ Take this equation
    This is only a learning test-bed.  
    Take nothing that's here seriously
 
-.. rubrics::  Let's play some games
+.. rubric::  Let's play some games
 
 Take :math:`a = b + 2` as a small equation, 
 and calcualte :math:`a` when :math:`b = 5` !
