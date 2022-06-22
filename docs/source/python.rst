@@ -132,13 +132,20 @@ ignore such thoughts.
 .. rubric:: Artificial Intelligence and 
    Machine Learning
 
-Artificial Intelligence (AI) is concerned with
+*Artificial Intelligence* (AI) is concerned with
 making computers intelligent, and take decisions
 without humans (or even human-created codes)
 explicitly directing it what to do in which 
 situation. 
 
-Machine Learning (ML) is the process where
+*Machine Learning* (ML) is the process where
 a computer code *learns* to take the right 
 decisions by looking at data, embodying 
 a good amount of experience across some domain.
+
+.. figure:: img/Partha_photo.jpg
+   :width: 100px
+
+   Partha, Freelancer@
+   .. image:: img/upwork-logo
+      :width: 30px
