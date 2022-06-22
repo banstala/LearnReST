@@ -123,4 +123,7 @@ importance, and even can creep into your dreams
 once in a lifetime. But I'd say it's best to
 ignore such thoughts.
 
-.. note:: Ignore recurring events.
+.. note:: Ignore memory-recurring events.
+
+.. image:: img/AI_avtar.png
+   :height: 250px
