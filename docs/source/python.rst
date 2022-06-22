@@ -1,16 +1,5 @@
-=====================
-``Python`` for Crypto
-=====================
-
-------------------
-Technical Analysis
-------------------
-
-Technical Analysis (TA) helps to calculates trend
-in prices.
-
 Python prerequisites
-====================
+--------------------
 
 Take these situations :
 
