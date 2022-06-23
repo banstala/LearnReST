@@ -18,6 +18,17 @@ The `technical analysis library
 <https://technical-analysis-library-in-python.readthedocs.io/en/latest/ta.html>`_
 by Dario Lopez Padial (Bukosabino) 
 
+.. topic:: Complex content
+
+   When coding, concentrate on **outcome**, *not syntax*
+   - syntax is only the *means* to an end
+   - ignore *Krishnã*... fruits are sweet
+
+   Put simply::
+
+       $ conc on (outcome) and (not syntax)
+
+
 .. image:: https://img.shields.io/badge/Name-Partha-blue.svg
    :height: 2ex
 
