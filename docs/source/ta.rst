@@ -18,6 +18,9 @@ The `technical analysis library
 <https://technical-analysis-library-in-python.readthedocs.io/en/latest/ta.html>`_
 by Dario Lopez Padial (Bukosabino) 
 
+.. image:: https://img.shields.io/badge/Name-Partha-blue.svg
+   :height: 2ex
+
 .. 
    github-shield::
    :last-commit:
